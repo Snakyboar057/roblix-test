@@ -1,2 +1,2 @@
-# roblix-test
+# roblox-test
 This is a script test
